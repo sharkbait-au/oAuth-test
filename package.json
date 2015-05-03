@@ -1,0 +1,22 @@
+{
+  "name": "oAuth-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sharkbait-au/oAuth-test.git"
+  },
+  "author": "sharkbait <sharkbait.aust@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sharkbait-au/oAuth-test/issues"
+  },
+  "homepage": "https://github.com/sharkbait-au/oAuth-test",
+  "devDependencies": {
+    "passport-google-oauth": "^0.2.0"
+  }
+}
